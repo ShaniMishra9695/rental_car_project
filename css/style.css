@@ -389,6 +389,11 @@
     background: var(--bs-light);
 }
 
+.categories .categories-item-inner .categories-img img {
+    height: 350px;
+    object-fit: contain;
+}
+
 .categories .categories-item-inner .categories-content {
     border-top: 4px solid var(--bs-white);
     text-align: center;
